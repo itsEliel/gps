@@ -16,5 +16,5 @@ Currently
   tuning
   tattoo
   
-Will give the player GPS location waypoint on map to nearest of written location.
+Will give the player GPS location waypoint on map to nearest written location.
 Easy to import into menu-version with little know-how if you wish, i prefer command myself.
